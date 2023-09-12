@@ -1,0 +1,17 @@
+export default {
+  primary: '#000000',
+  secondary: '#262626',
+  text_black: 'rgb(34,34,34)',
+  text_secondary: 'rgb(203,203,203)',
+  text_label: '#6a6a6a',
+  text_yellow: 'rgb(131,131,131)',
+  light_grey: '#212121',
+  popup_bg: 'rgba(0,0,0,0.5)',
+  borderColor: 'rgb(164,163,163)',
+  grey: '#808080',
+  light_blue: '#22608b',
+  black: '#000000',
+  error: '#bd0000',
+  white: '#fff',
+  white_faded: '#ffffff75',
+};
